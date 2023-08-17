@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "geneSLOPE"]
+	path = geneSLOPE
+	url = https://github.com/psobczyk/geneslope
 [submodule "pesel"]
 	path = pesel
 	url = https://github.com/psobczyk/pesel
